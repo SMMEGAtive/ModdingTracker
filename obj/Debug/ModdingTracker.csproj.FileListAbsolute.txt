@@ -1,0 +1,9 @@
+c:\users\megative\documents\visual studio 2012\Projects\ModdingTracker\ModdingTracker\bin\Debug\ModdingTracker.exe.config
+c:\users\megative\documents\visual studio 2012\Projects\ModdingTracker\ModdingTracker\bin\Debug\ModdingTracker.exe
+c:\users\megative\documents\visual studio 2012\Projects\ModdingTracker\ModdingTracker\bin\Debug\ModdingTracker.pdb
+c:\users\megative\documents\visual studio 2012\Projects\ModdingTracker\ModdingTracker\obj\Debug\ModdingTracker.csprojResolveAssemblyReference.cache
+c:\users\megative\documents\visual studio 2012\Projects\ModdingTracker\ModdingTracker\obj\Debug\ModdingTracker.Form1.resources
+c:\users\megative\documents\visual studio 2012\Projects\ModdingTracker\ModdingTracker\obj\Debug\ModdingTracker.Properties.Resources.resources
+c:\users\megative\documents\visual studio 2012\Projects\ModdingTracker\ModdingTracker\obj\Debug\ModdingTracker.csproj.GenerateResource.Cache
+c:\users\megative\documents\visual studio 2012\Projects\ModdingTracker\ModdingTracker\obj\Debug\ModdingTracker.exe
+c:\users\megative\documents\visual studio 2012\Projects\ModdingTracker\ModdingTracker\obj\Debug\ModdingTracker.pdb
